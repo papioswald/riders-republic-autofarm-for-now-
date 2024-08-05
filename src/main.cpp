@@ -18,7 +18,7 @@ int main() {
     DWORD time = 0;
 
     if (opt == 1) {
-        time = 8000;
+        time = 4000;
     }
     else if (opt == 0) {
         time = 240000;
