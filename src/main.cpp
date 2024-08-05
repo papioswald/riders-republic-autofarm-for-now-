@@ -75,7 +75,7 @@ int main() {
             Sleep(700);
         }
 
-        std::cout << "2";
+        std::cout << "2"; //made to fix commit
         Sleep(time);
 
         system("cls");
